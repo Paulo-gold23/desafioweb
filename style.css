@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+body {
+    padding: 70px;
+}
+img {
+    width: 150px;
+    border-radius: 5px ;
+    margin: 10px;
+    border: 2px;
+}
